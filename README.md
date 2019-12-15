@@ -72,7 +72,7 @@ VS CODE
 
 (17) In the models/index.js file add associations constant and at the bottom of the models/index.js file add the call to associations function.: ![Call associations function in models-index js file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858339-56686580-1ece-11ea-9292-c022c3e8fa47.JPG)
 
-(18) Open config/config.json file and change settings to connect to the database.: 
+(18) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config json file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858345-7f88f600-1ece-11ea-962d-d34b48cefeb9.JPG)
 
 (19) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
 
