@@ -80,7 +80,7 @@ VS CODE
 
 (21) In the routes/index.js file require the models.: ![Require models in routes-indexs js file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858364-e8706e00-1ece-11ea-9736-883cff7ab754.JPG)
 
-(22) In the routes/index.js file add get() route for /actors that will use the findAll() method.: 
+(22) In the routes/index.js file add post() route for /actors that will use the findAll() method.: ![Add post() route for actors id in index js file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858372-063dd300-1ecf-11ea-9d60-b8bc150047e7.JPG)
 
 COMMAND PROMPT
 
