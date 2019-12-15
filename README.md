@@ -27,7 +27,7 @@ COMMAND PROMPT
 
     cd express_Sequelize_RESTfulAPI_Post
     
-(7) Now in the express_Sequelize_RESTfulAPI_P directory, run the following: 
+(7) Now in the express_Sequelize_RESTfulAPI_Post directory, run the following: 
 
     npm install
 
