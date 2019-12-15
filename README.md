@@ -25,7 +25,7 @@ COMMAND PROMPT
 
 (6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_Post directory: 
 
-    cd express_Sequelize_RESTfulAPI_ParameterizedRoute_HelperFunction
+    cd express_Sequelize_RESTfulAPI_P
     
 (7) Now in the express_Sequelize_RESTfulAPI_ParameterizedRoute_HelperFunction directory, run the following: 
 
