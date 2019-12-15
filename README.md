@@ -54,7 +54,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file and require mysql2 and models in routes/index.js file.: 
+(13) Navigate to the routes/index.js file and require mysql2 and models in routes/index.js file.: ![Require mysql2 in routes-index js file (Sequelized_RESTfulAPI_Post)](https://user-images.githubusercontent.com/35668707/70858318-fb367300-1ecd-11ea-8c6b-92f7b493ba95.JPG)
 
 COMMAND PROMPT
 
